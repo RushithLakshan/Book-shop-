@@ -1,0 +1,118 @@
+ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #008000;
+}
+li{
+	float: left;
+}
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 10px 12px;
+	width: 100px;
+	text-decoration: none;
+	font-Weight: bold;
+	font-family: Agency FB; 
+}
+li a:hover{
+	background-color: #0BDA51;
+}
+
+.img-head{
+	width: 50px;
+	height: 50px;
+	float: left;
+	
+}
+.head-header{
+	font-family: Cooper Black;
+	 text-align: left;
+}
+.navi{
+	position: relative;
+	margin-top: 5px;
+}
+body{
+	background-color: #e6ffe6;
+	text-align: center;
+}
+
+
+
+.myfooter{
+	margin-top: 10px;
+	background-color: #008040;
+	//position: fixed;
+	//left: 0;
+	//bottom: 0;
+	
+}
+.footTable{
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	color: #00001a;
+	border: opx;
+	
+}
+.footTableTh{
+	width: 30%;
+	font-family: Arial;
+	
+}
+.mydivfootunder1{
+	background-color: #00331a;
+	color: white;
+	height:auto;
+	width:100%;
+	text-align: center;
+}
+
+
+.aboutDiv{
+	margin-top: 10px;
+}
+.AbutusTable{
+	width: 98%;
+	height: 50%;
+	margin: auto;		/*----center a table in a div tag----*/		
+}
+.AbutusTableTd{
+	width: 50%;
+}
+
+.AbutusTableTdAlign{
+	vertical-align:top;
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.AboutusTableBtn{
+	width: 200px;
+	border-radius: 10px;
+	border: 4px solid black;
+	background-color:white;
+	padding: 15px;
+}
+.BtnHover:hover{
+	border-color: green;
+	cursor: help;
+}
+.contImg{
+	height: 60px;
+	width: 60px;
+}
+.aboutHeader1{
+	font-family: Arial;
+	
+}
+.aboutImg{
+	width: 500px;
+}

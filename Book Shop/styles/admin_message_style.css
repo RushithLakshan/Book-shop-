@@ -1,0 +1,92 @@
+ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #008000;
+}
+li{
+	float: left;
+}
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 10px 12px;
+	width: 100px;
+	text-decoration: none;
+	font-Weight: bold;
+	font-family: Agency FB; 
+}
+li a:hover{
+	background-color: #0BDA51;
+}
+
+.img-head{
+	width: 50px;
+	height: 50px;
+	float: left;
+	
+}
+.head-header{
+	font-family: Cooper Black;
+	 text-align: left;
+}
+.navi{
+	position: relative;
+	margin-top: 5px;
+}
+.logout-btn{
+	color: white;
+	font-size: 16px;
+	font-Weight: bold;
+	font-family: Agency FB;
+	margin-right: 0px;
+	background-color: #008000;
+	padding: 4px;
+	height: 40px;
+	border: 0px;
+	width: 120px;
+}
+.logout-btn:hover{
+	background-color: #0BDA51;
+}
+body{
+	background-color: #e6ffe6;
+	text-align: center;
+}
+
+
+
+
+.messageDiv{
+		margin-top: 20px;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		background-color:  #E5E4E2;	
+		border-radius: 5px;
+		border: solid 2px black;
+		text-align: left;
+		line-height: 200%;
+}
+hr{
+	border: 2px solid black;
+}
+.messageTab{
+	width: 98%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.delete-btn{
+	width:20%;
+	border-radius: 5px;
+	font-size: 15px;
+	padding: 2px;
+	background-color: #50C878;
+}
+.delete-btn:hover{
+	background-color:#00ff00;
+	color: black;
+}

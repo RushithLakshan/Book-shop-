@@ -1,0 +1,43 @@
+
+
+.reg-form{
+		margin-left: auto;
+		margin-right: auto;
+		width: 60%;
+		background-color: #E5E4E2;	
+		border-radius: 2px;
+		border: 2px solid black;
+}
+.reg-table{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+	width: 60%;
+	border-spacing: 30px;
+	border-width: 0px;
+	text-align: center;
+	
+}
+
+.regForm-input{
+	width:90%;
+	border-radius: 5px;
+	font-size: 15px;
+	height: 25px;
+}
+.regForm-btn{
+	width:50%;
+	border-radius: 5px;
+	font-size: 15px;
+	padding: 5px;
+	background-color: #50C878;
+}
+
+
+.Order-form{
+		margin-left: auto;
+		margin-right: auto;
+		width: 60%;
+		background-color: #E5E4E2;	
+		border-radius: 2px;
+}

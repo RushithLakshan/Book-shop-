@@ -1,0 +1,26 @@
+.EditproductDiv{
+		margin-top: 100px;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		background-color:  #E5E4E2;	
+		border-radius: 5px;
+		border: solid 2px black;
+		text-align: center;
+		line-height: 200%;
+}
+
+.EditPro-btn{
+	width:20%;
+	border-radius: 5px;
+	font-size: 15px;
+	padding: 2px;
+	background-color: #50C878;
+}
+.EditPro-btn:hover{
+	background-color:#00ff00;
+	color: black;
+}
+body{
+	background-color: #e6ffe6;
+}

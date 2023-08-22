@@ -1,0 +1,116 @@
+ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #008000;
+}
+li{
+	float: left;
+}
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 10px 12px;
+	width: 100px;
+	text-decoration: none;
+	font-Weight: bold;
+	font-family: Agency FB; 
+}
+li a:hover{
+	background-color: #0BDA51;
+}
+
+.img-head{
+	width: 50px;
+	height: 50px;
+	float: left;
+	
+}
+.head-header{
+	font-family: Cooper Black;
+	 text-align: left;
+}
+.navi{
+	position: relative;
+	margin-top: 5px;
+}
+body{
+	background-color: #e6ffe6;
+	text-align: center;
+}
+
+
+
+.myfooter{
+	margin-top: 10px;
+	background-color: #008040;
+	
+}
+.footTable{
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	color: #00001a;
+	border: opx;
+	
+}
+.footTableTh{
+	width: 30%;
+	font-family: Arial;
+	
+}
+.mydivfootunder1{
+	background-color: #00331a;
+	color: white;
+	height:auto;
+	width:100%;
+	text-align: center;
+}
+
+
+
+
+.contact-form{
+		margin-top: 10px;
+		margin-left: auto;
+		margin-right: auto;
+		width: 60%;
+		background-color:  #98FB98;	
+		border-radius: 5px;
+		border: solid 2px black;
+}
+.contact-table{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+	width: 60%;
+	border-spacing: 30px;
+	border-width: 0px;
+	text-align: center;
+	
+}
+.conForm-input{
+	width:350px;
+	border-radius: 5px;
+	font-size: 15px;
+	height: 20px;
+}
+.conForm-btn{
+	width:50%;
+	border-radius: 5px;
+	font-size: 15px;
+	padding: 5px;
+	background-color: #50C878;
+}
+.conForm-btn:hover{
+	background-color:#00ff00;
+	color: black;
+}
+.conForm-textarea{
+	height: 150px;
+	width: 350px;
+	
+}

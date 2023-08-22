@@ -1,0 +1,117 @@
+
+ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #008000;
+}
+li{
+	float: left;
+}
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 10px 12px;
+	width: 100px;
+	text-decoration: none;
+	font-Weight: bold;
+	font-family: Agency FB; 
+}
+li a:hover{
+	background-color: #0BDA51;
+}
+
+.img-head{
+	width: 50px;
+	height: 50px;
+	float: left;
+	
+}
+.head-header{
+	font-family: Cooper Black;
+	 text-align: left;
+}
+.navi{
+	position: relative;
+	margin-top: 5px;
+}
+
+
+
+
+td{
+	text-align: center;
+}
+.cartTabale{
+	margin-top: 50px;
+	width: 98%;
+	background-color: #dfff80;
+	border-collapse: collapse;
+}
+body{
+	background-color: #e6ffe6;
+	text-align: center;
+}
+.CartTable-btn{
+	width:30%;
+	border-radius: 5px;
+	font-size: 15px;
+	padding: 2px;
+	background-color: #50C878;
+}
+.CartTable-btn:hover{
+	background-color:#00ff00;
+	color: black;
+}
+.cartTabTr{
+	background-color:#00cc00;
+	font-family: "Arial Black";
+}
+.cartTabTr1{
+	font-family: Arial;
+	background-color:#1aff1a;
+}
+.CartTableRemove-btn{
+	width:30%;
+	border-radius: 5px;
+	font-size: 13px;
+	padding: 1px;
+	background-color: #50C878;
+}
+.CartTableRemove-btn:hover{
+	background-color:#00ff00;
+	color: black;
+}
+
+
+
+.myfooter{
+	background-color: #008040;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	
+}
+.footTable{
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	color: #00001a;
+	border: opx;
+	
+}
+.footTableTh{
+	width: 30%;
+	font-family: Arial;
+	
+}
+.mydivfootunder1{
+	background-color: #00331a;
+	color: white;
+	height:auto;
+	width:100%;
+	text-align: center;
+}
